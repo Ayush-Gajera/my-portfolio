@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <g data-name="11-CSS code">
+    <!-- Base background color with #FFBC5E -->
+    <path fill="#FFBC5E" d="M45 40H3a3 3 0 0 1-3-3V11a3 3 0 0 1 3-3h3v2H3a1 1 0 0 0-1 1v26a1 1 0 0 0 1 1h42a1 1 0 0 0 1-1V11a1 1 0 0 0-1-1h-3V8h3a3 3 0 0 1 3 3v26a3 3 0 0 1-3 3z"/>
+
+    <!-- Sidebar buttons in #FFDB6E -->
+    <path fill="#FFDB6E" d="M15 39h2v4h-2z"/>
+    <path fill="#FFDB6E" d="M31 39h2v4h-2z"/>
+
+    <!-- Footer actions & interaction buttons in #FFDB6E -->
+    <path fill="#FFDB6E" d="M37 47h-2v-2a1 1 0 0 0-1-1h-5v-2h5a3 3 0 0 1 3 3z"/>
+    <path fill="#FFDB6E" d="M9 46h30v2H9z"/>
+
+    <!-- CSS navigation container background with #FFBC5E -->
+    <path fill="#FFBC5E" d="M36 36a1 1 0 0 1-.707-.293L29.586 30H8a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h32a3 3 0 0 1 3 3v24a3 3 0 0 1-3 3h-3v5a1 1 0 0 1-1 1z"/>
+    
+    <!-- Navigation highlights with #FFDB6E -->
+    <path fill="#FFDB6E" d="M8 2a1 1 0 0 0-1 1v24a1 1 0 0 0 1 1h22a1 1 0 0 1 .707.293L35 32.586V29a1 1 0 0 1 1-1h4a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1z"/>
+
+    <!-- Small buttons/icons with CSS-like navigation & #FFDB6E -->
+    <path fill="#FFDB6E" d="M4 34h2v2H4z"/>
+    <path fill="#FFDB6E" d="M8 34h2v2H8z"/>
+    <path fill="#FFDB6E" d="M12 34h2v2h-2z"/>
+
+    <!-- Floating action areas buttons with #FFBC5E -->
+    <path fill="#FFBC5E" d="M18 19h-6a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h6v2h-5v4h5z"/>
+
+    <path fill="#FFBC5E" d="M26 19h-6v-2h5v-1h-4a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6v2h-5v1h4a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1z"/>
+
+    <path fill="#FFBC5E" d="M35 19h-6v-2h5v-1h-4a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6v2h-5v1h4a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1z"/>
+  </g>
+</svg>
